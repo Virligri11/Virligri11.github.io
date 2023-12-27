@@ -31,6 +31,6 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-wordcount": "^6.0.1",
     "marked": "^9.1.0",
-    "vditor": "^3.9.6"
+    "vditor": "^3.9.8"
   }
 }
